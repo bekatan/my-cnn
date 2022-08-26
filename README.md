@@ -1,4 +1,4 @@
-# CNN_on_MNIST
+# CNN_demo
 applying CNN on MNIST using pytorch with cuda
 
 # Tutorial source
